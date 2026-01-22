@@ -133,3 +133,11 @@ Step-by-step guidance, conventions, and patterns the agent should follow.
 | description | Yes      | A clear description of what the skill does and when to use it. This is what the agent sees when deciding whether to apply the skill. |
 
 > Tip: Write your description in third person and include keywords that help the agent recognize when the skill is relevant. For example: "Generates unit tests for Python code using pytest conventions."
+
+## Reference
+
+- [Google Antigravity Skills Documentation](https://antigravity.google/docs/skills)
+- [Claude Code Skills Documentation](https://code.claude.com/docs/en/skills)
+- [Cursor Skills Documentation](https://cursor.com/docs/context/skills)
+- [Codex Skills Documentation](https://developers.openai.com/codex/skills/)
+- [Authoring Google Antigravity Skills](https://codelabs.developers.google.com/getting-started-with-antigravity-skills#0)
